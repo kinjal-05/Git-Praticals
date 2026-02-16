@@ -1,5 +1,15 @@
+<<<<<<< HEAD
+=======
+This is done by Kinjal Mistry.
+This is done by Kinjal Mistry.(Contributor 1)
+>>>>>>> 67e5c020e7e259b307fffb92582b33f656807876
 This is Kinjal Mistry.
 This is Pratik Mistry.
 This is Dipika Mistry.
 This is Bhavesh Mistry.
 This is my Repo.
+<<<<<<< HEAD
+=======
+
+This is Pratik.
+>>>>>>> 67e5c020e7e259b307fffb92582b33f656807876
